@@ -20,3 +20,17 @@ In my free time, I enjoy swimming and hiking. Currently, I'm enrolled in a web d
 
 ## A well-known place from my city
 ![Zollverein is a well-known place from my city](https://media.essen.de/media/wwwessende/bilder/aemter/ordner_0115/stadtbildstelle/aktuelle_stadtansichten_neu/141_Zollverein.jpg)
+
+## Connect with Me [![handshake.gif](https://s4.gifyu.com/images/handshake.gif)](https://gifyu.com/image/Zy2f)
+
+  <a href="https://www.xing.com/profile/Bjoern_Bennat/cv" >
+    <img alt="Static Badge" src="https://img.shields.io/badge/XING%20-%20?style=for-the-badge&logo=XING&logoColor=white&color=green" alt="Xing Profile">
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://linkedin.com/in/björn-bennat-38620719a" >
+    <img src="https://img.shields.io/badge/LINKEDIN%20-%20?style=for-the-badge&logo=LINKEDIN&logoColor=white&color=blue" alt="Linkedin Profile">
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.frontendmentor.io/profile/bennatbjoern" >
+    <img src="https://img.shields.io/badge/FRONTEND--MENTOR%20-%20?style=for-the-badge&logo=FRONTENDMENTOR&logoColor=black&color=white" alt="Frontend-Mentor Profile">
+  </a> &nbsp;&nbsp;&nbsp;
