@@ -17,3 +17,6 @@ In my free time, I enjoy swimming and hiking. Currently, I'm enrolled in a web d
 - ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 - ...
+
+## A well-known place from my city
+![Zollverein is a well-known place from my city](https://media.essen.de/media/wwwessende/bilder/aemter/ordner_0115/stadtbildstelle/aktuelle_stadtansichten_neu/141_Zollverein.jpg)
