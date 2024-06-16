@@ -1,14 +1,10 @@
-# Hi, I'm Björn! :wave:
+# 👋 About me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+love+to+learn+new+stuff)](https://git.io/typing-svg)
-
-## About me 
-
-In my free time, I enjoy swimming and hiking. Currently, I'm enrolled in a web development bootcamp at <a href="https://www.neuefische.de/">neuefische</a>, where I'm learning new skills in both frontend and backend development.
+Hi there! I'm Björn, a passionate Frontend Developer with a keen eye for detail and a love for crafting beautiful, user-friendly web experiences. With a solid foundation in modern web technologies and a commitment to continuous learning, I strive to create interfaces that are both aesthetically pleasing and highly functional.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## Skills I will learn 🛠️
+## 🛠️ My Skills 
 
 - ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -21,11 +17,18 @@ In my free time, I enjoy swimming and hiking. Currently, I'm enrolled in a web d
 - ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 - ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
+🌱 Currently Learning
+I'm always looking to expand my knowledge. Currently, I am diving deeper into:
 
+- Three.js: to create stunning 3D web graphics.
+- GSAP (GreenSock Animation Platform): to build high-performance animations for web interfaces.
+- Web performance optimization and accessibility: to ensure my applications are fast and accessible to everyone.
 
+## 🚀 Goals
+I believe in the power of continuous improvement and am always looking for new challenges to tackle. My current focus is on:
 
-## A well-known place from my city
-![Zollverein is a well-known place from my city](https://media.essen.de/media/wwwessende/bilder/aemter/ordner_0115/stadtbildstelle/aktuelle_stadtansichten_neu/141_Zollverein.jpg)
+- Building responsive and accessible web applications
+- Enhancing my understanding of JavaScript frameworks and libraries
 
 ## Connect with Me [![handshake.gif](https://s4.gifyu.com/images/handshake.gif)](https://gifyu.com/image/Zy2f)
 
@@ -36,7 +39,3 @@ In my free time, I enjoy swimming and hiking. Currently, I'm enrolled in a web d
   <a href="https://linkedin.com/in/björn-bennat-38620719a" >
     <img src="https://img.shields.io/badge/LINKEDIN%20-%20?style=for-the-badge&logo=LINKEDIN&logoColor=white&color=blue" alt="Linkedin Profile">
   </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.frontendmentor.io/profile/bennatbjoern" >
-    <img src="https://img.shields.io/badge/FRONTEND--MENTOR%20-%20?style=for-the-badge&logo=FRONTENDMENTOR&logoColor=black&color=white" alt="Frontend-Mentor Profile">
-  </a> &nbsp;&nbsp;&nbsp;
