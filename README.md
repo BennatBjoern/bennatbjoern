@@ -18,7 +18,7 @@ Hi there! I'm Björn, a passionate Frontend Developer with a keen eye for detail
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-🌱 Currently Learning
+## 🌱 Currently Learning
 I'm always looking to expand my knowledge. Currently, I am diving deeper into:
 
 - Javascript: ES6+ features, and best practices for writing clean and efficient code.
